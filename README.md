@@ -28,6 +28,11 @@
 
 ## 📊 Featured Projects
 
+### 📞 Telecom Churn & Revenue Risk Dashboard
+✔️ Built dynamic Power BI dashboard & predictive ML pipeline
+✔️ Analyzed 28.8% churn trends, high-risk customer segments & KPIs
+✔️ Delivered insights safeguarding ₹34L revenue at risk for business decision-making
+
 ### 🎧 Music Streaming Churn Analysis
 
 ✔️ Identified key factors behind customer churn
