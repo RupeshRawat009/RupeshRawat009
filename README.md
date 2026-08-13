@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Rupesh Singh Rawat!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%7C+CS+Graduate+2026;Microsoft+Certified+DP-600;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Turning+Data+into+Business+Decisions;%242.1M+Revenue+Risk+Surfaced;83%25+Accurate+Churn+Classifier+Built&center=true&width=600&height=45&color=0077B5&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%7C+Not+Aspiring+—+Doing;Microsoft+Certified+Fabric+Engineer+DP-600;Built+Models+with+83%25+Accuracy;Surfaced+%242.1M+in+Revenue+Risk;Power+BI+%7C+SQL+%7C+Python+%7C+ML;Let+the+Data+Do+the+Talking&center=true&width=650&height=45&color=FF5722&pause=500">
 </p>
 
 ## 💫 About Me
