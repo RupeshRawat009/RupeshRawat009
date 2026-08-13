@@ -208,9 +208,8 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RupeshRawat009&icon=5&color=0&label=Profile+Views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=RupeshRawat009&label=Profile%20Views&countColor=%23263759" alt="Profile Views" />
 </p>
-
 <p align="center">
   <em>"Data is not just numbers — it's the reason the business turns left instead of right."</em>
 </p>
