@@ -1,21 +1,21 @@
 # 👋 Hey there, I'm Rupesh Singh Rawat!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%7C+CS+Graduate+2026;Microsoft+Certified+DP-600;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Turning+Data+into+Business+Decisions;%242.1M+Revenue+Risk+Surfaced;83%25+Accurate+Churn+Classifier+Built&center=true&width=600&height=45&color=0077B5&pause=500">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%7C+CS+Graduate+2026;Microsoft+Certified+DP-600;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Turning+Data+into+Business+Decisions;%242.1M+Revenue+Risk+Surfaced;83%25+Accurate+Churn+Classifier+Built&center=true&width=620&height=48&color=0077B5&pause=800&size=18">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rupesh-singh-rawat009/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://rupeshrawat-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:rupeshrawat133@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/RupeshRawat009">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -23,143 +23,196 @@
 
 ## 💫 About Me
 
-🎓 **Computer Science Graduate** — GGSIPU, Delhi (2026)
-📊 **Data Analyst** — turning large, messy datasets into decisions that stick
+> *"I don't just analyze data — I find the decisions hiding inside it."*
+
+🎓 **CS Graduate** — GGSIPU, Delhi (2026)
+📊 **Data Analyst** — end-to-end pipelines, predictive modeling, and BI dashboards
 🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
 🤖 **Agentic AI Certified Foundations Associate** — Oracle (2026)
+📍 Delhi NCR, India &nbsp;|&nbsp; Open to Remote
 
 ---
 
-### 📌 What I Actually Do
+## 📌 What I've Actually Delivered
 
-- Surfaced **$2.1M in revenue exposure** from 172K+ supply chain records
-- Built a **churn prediction model (83% accuracy)** flagging 368 high-risk accounts
-- Delivered **forecasting models and executive dashboards** for British Airways & Tata (Forage)
-
----
-
-### 🛠️ My Stack
-
-**Analytics & Programming**
-`Python` `Pandas` `NumPy` `Scikit-learn` `SQL` `Advanced Excel`
-
-**Business Intelligence**
-`Power BI` `DAX` `Microsoft Fabric` `Tableau` `Looker Studio`
-
-**Machine Learning**
-`Random Forest` `Logistic Regression` `SMOTE` `ROC-AUC` `Feature Importance`
-
-**Data Engineering**
-`ETL Pipelines` `Data Warehousing` `Data Governance` `SQL Server`
-
----
-
-### 🔍 Currently Exploring
-
-- Advanced analytics with **Microsoft Fabric**
-- **Agentic AI** applications in data workflows
-- Predictive modeling for **financial risk** use cases
+<table>
+  <tr>
+    <td>💰</td>
+    <td>Surfaced <strong>$2.1M in revenue exposure</strong> from 172K+ supply chain records via Python & SQL</td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td>Built a <strong>churn classifier (83% accuracy)</strong> flagging 368 high-risk accounts across 4 retention tiers</td>
+  </tr>
+  <tr>
+    <td>✈️</td>
+    <td>Delivered a <strong>demand forecasting model</strong> for British Airways Heathrow T3 Airport Planning team</td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td>Designed <strong>4 executive KPI dashboards</strong> in Power BI from direct CEO & CMO stakeholder briefs — Tata</td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Featured Projects
+## 🚀 Featured Projects
 
-### 📞 Telecom Churn & Revenue Risk Dashboard
-✔️ Built dynamic Power BI dashboard & predictive ML pipeline
-✔️ Analyzed 28.8% churn trends, high-risk customer segments & KPIs
-✔️ Delivered insights safeguarding ₹34L revenue at risk for business decision-making
-
-### 🎧 Music Streaming Churn Analysis
-
-✔️ Identified key factors behind customer churn
-✔️ Performed behavioral & trend analysis
-✔️ Created actionable retention strategies
-
----
-
-### 🛒 Blinkit Sales Analytics Dashboard
-
-✔️ Built dynamic Power BI dashboard
-✔️ Analyzed sales trends, product performance & KPIs
-✔️ Delivered insights for business decision-making
-
----
-
-### 💬 Real-Time Chat Application (Socket.io)
-
-✔️ Built real-time messaging system using WebSockets
-✔️ Implemented instant communication features
-✔️ Strengthened frontend + backend integration skills
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔗 Supply Chain Delay Root Cause Analysis</h3>
+      <p>
+        Analyzed <strong>172K+ records</strong> to expose a <strong>54.7% late-delivery rate</strong> 
+        and <strong>$2.1M revenue exposure</strong>. Built a Random Forest + SMOTE 
+        classifier (74% accuracy) and deployed a multi-page Power BI dashboard 
+        with DAX measures and KPI slicers.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+      </p>
+      <a href="https://github.com/RupeshRawat009/End-to-End-Supply-Chain-Performance-Delay-Root-Cause-Analysis">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>📞 Telecom Customer Churn Prediction</h3>
+      <p>
+        Engineered a <strong>SQL ETL pipeline</strong> on 6.4K+ records isolating 
+        a <strong>28.8% churn rate</strong> and <strong>₹34.1L revenue at risk</strong>. 
+        Built a Random Forest classifier (83% accuracy, 85% CV score) and 
+        a 2-page Power BI dashboard with geographic heatmaps across 22 states.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+      </p>
+      <a href="https://github.com/RupeshRawat009/Churn_Analysis_Report_Prediction">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>✈️ British Airways — Demand Forecasting</h3>
+      <p>
+        Built a <strong>cost-sensitive Random Forest classifier</strong> to identify 
+        high-intent holiday travelers via ROC-AUC evaluation. Architected a 
+        <strong>Haul Type × Time of Day</strong> capacity forecasting model for 
+        Heathrow T3 Airport Planning. Delivered 3 executive data-driven 
+        acquisition recommendations.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/>
+      </p>
+      <img src="https://img.shields.io/badge/British%20Airways%20Forage-0077B5?style=for-the-badge&logo=airplaymodes&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3>📈 Tata — Executive KPI Dashboards</h3>
+      <p>
+        Performed <strong>end-to-end data cleaning and EDA</strong> using Python 
+        (Pandas, NumPy), surfacing 4 high-priority business insights. Designed 
+        <strong>4 executive Power BI dashboards</strong> with DAX measures and 
+        dynamic slicers, directly aligned to CEO & CMO stakeholder briefs.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/DAX-0077B5?style=flat&logo=powerbi&logoColor=white"/>
+      </p>
+      <img src="https://img.shields.io/badge/Tata%20Forage-1A1A2E?style=for-the-badge&logo=tata&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Tools
+### 📊 Analytics & Data Engineering
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+### 📈 Business Intelligence
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
----
-
-### 📊 Data & Analytics
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-
----
+### 🤖 Machine Learning & Data Science
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### ⚙️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socket.io\&badgeColor=010101)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge\&logo=jira\&logoColor=white)
-
---
-
-## 🎯 Career Objective
-
-🚀 Seeking an **Entry-Level Data Analyst Role**
-where I can leverage my skills in **SQL, Power BI, Excel, and Python**
-to drive data-driven decisions and business growth
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ---
 
-## 🌟 Fun Zone
+## 🏆 Certifications
 
-🎧 I analyze data while listening to music
-📈 I enjoy finding patterns in datasets
-⚡ *“Data is not just numbers, it’s a story waiting to be told”*
+<table>
+  <tr>
+    <td>🥇</td>
+    <td><strong>Microsoft Certified: Fabric Analytics Engineer Associate</strong> (DP-600)</td>
+    <td><img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td>🥇</td>
+    <td><strong>Agentic AI Certified Foundations Associate</strong></td>
+    <td><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td>✅</td>
+    <td><strong>SQL (Intermediate)</strong></td>
+    <td><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td>✅</td>
+    <td><strong>Power BI Certification</strong></td>
+    <td><img src="https://img.shields.io/badge/Simplilearn-FF6600?style=flat&logo=simple-icons&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td>✅</td>
+    <td><strong>Data Science Virtual Experience Program</strong></td>
+    <td><img src="https://img.shields.io/badge/British%20Airways%20%2F%20Forage-004B87?style=flat&logo=airplaymodes&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td>✅</td>
+    <td><strong>AI Fluency: Framework & Foundations</strong></td>
+    <td><img src="https://img.shields.io/badge/Anthropic-1A1A1A?style=flat&logo=anthropic&logoColor=white"/></td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Portfolio
+## 🔍 Currently Exploring
 
-👉 https://rupeshrawat-portfolio.netlify.app/
-
----
-
-## 🤝 Let's Connect
-
-📧 Email: [rupeshrawat133@gmail.com](mailto:rupeshrawat133@gmail.com)
+- 🔷 Advanced analytics with **Microsoft Fabric**
+- 🤖 **Agentic AI** applications in data workflows
+- 📉 Predictive modeling for **financial risk** use cases
 
 ---
 
-## 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=RupeshRawat009&icon=5&color=0&label=Profile+Views"/>
+</p>
 
-![](https://visitcount.itsvg.in/api?id=RupeshRawat009\&icon=0\&color=0)
+<p align="center">
+  <em>"Data is not just numbers — it's the reason the business turns left instead of right."</em>
+</p>
 
----
-
-⭐ *Keep Building. Keep Learning. Keep Growing.*
+<p align="center">⭐ If a project helped you, consider starring it — it means a lot!</p>
