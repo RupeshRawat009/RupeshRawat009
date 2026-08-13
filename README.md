@@ -8,21 +8,42 @@
 
 ## 💫 About Me
 
-🎓 Final Year **Computer Science Student**
-📊 Aspiring **Data Analyst** passionate about solving real-world problems using data
-💡 I specialize in converting raw data into **actionable insights & dashboards**
-⚡ Strong combination of **Data Analytics + Frontend Development**
+🎓 **Computer Science Graduate** — GGSIPU, Delhi (2026)
+📊 **Data Analyst** — turning large, messy datasets into decisions that stick
+🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
+🤖 **Agentic AI Certified Foundations Associate** — Oracle (2026)
 
-🔍 **Currently focusing on:**
+---
 
-* SQL (Data Extraction & Analysis)
-* Power BI (Interactive Dashboards)
-* Excel (Data Cleaning & Reporting)
-* Python (Pandas, Data Analysis)
+### 📌 What I Actually Do
 
-🌐 **Also skilled in:**
+- Surfaced **$2.1M in revenue exposure** from 172K+ supply chain records
+- Built a **churn prediction model (83% accuracy)** flagging 368 high-risk accounts
+- Delivered **forecasting models and executive dashboards** for British Airways & Tata (Forage)
 
-* React.js, JavaScript, HTML, CSS
+---
+
+### 🛠️ My Stack
+
+**Analytics & Programming**
+`Python` `Pandas` `NumPy` `Scikit-learn` `SQL` `Advanced Excel`
+
+**Business Intelligence**
+`Power BI` `DAX` `Microsoft Fabric` `Tableau` `Looker Studio`
+
+**Machine Learning**
+`Random Forest` `Logistic Regression` `SMOTE` `ROC-AUC` `Feature Importance`
+
+**Data Engineering**
+`ETL Pipelines` `Data Warehousing` `Data Governance` `SQL Server`
+
+---
+
+### 🔍 Currently Exploring
+
+- Advanced analytics with **Microsoft Fabric**
+- **Agentic AI** applications in data workflows
+- Predictive modeling for **financial risk** use cases
 
 ---
 
